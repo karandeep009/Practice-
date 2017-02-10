@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<center>
+<h1>Karandeep Singh</h1>
+</center>
+</head>
+<body style="background-color:powderblue;">
+  <center>
+    <img src="KD.jpg" alt="my picture">
+    <p><b style="font-family:verdana;"> My resume </p> </b>
+  <object width="400" height="400" data="KDR.pdf"></object>
+</center>
+</body>
+</html>
